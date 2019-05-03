@@ -1,2 +1,4 @@
-first add
-second add
+first add  
+
+second add  
+test git config store

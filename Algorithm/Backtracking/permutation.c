@@ -28,5 +28,8 @@ void permutation(int list[],int index,int size){
 int main(void){
     int a[N]={1,2,3,4,5};
     permutation(a,0,N);
+    for(int i=0;i<N;i++){
+        printf("%d  ",a[i]);
+    }
     return 0;
 }

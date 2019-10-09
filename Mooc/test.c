@@ -25,6 +25,7 @@ int main()
             result += 1 * pow(2, powsize);
         }
         else
+        
         {
             result += 0 * pow(2, powsize);
         }
@@ -33,5 +34,6 @@ int main()
         number = number / 10;
     }
     printf("%d",result);
+    getchar();
     return 0;
 }

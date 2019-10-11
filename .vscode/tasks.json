@@ -10,8 +10,8 @@
             "args": [
                 "-g",
                 "-o",
-                "${workspaceFolder}\\Mooc\\primesum",
-                "D:\\study\\C_Learning\\Mooc\\primesum.c",
+                "${workspaceFolder}\\Mooc\\readnumber",
+                "D:\\study\\C_Learning\\Mooc\\readnumber.c",
             ],
             "group": {
                 "kind": "build",

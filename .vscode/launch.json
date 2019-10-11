@@ -30,7 +30,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Mooc/primesum.exe",
+            "program": "${workspaceFolder}/Mooc/readnumber.exe",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",

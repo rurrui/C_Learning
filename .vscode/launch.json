@@ -30,7 +30,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Mooc/6.exe",
+            "program": "${workspaceFolder}/Mooc/prime_squr.exe",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",

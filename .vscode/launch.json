@@ -30,7 +30,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Mooc/prime_squr.exe",
+            "program": "${workspaceFolder}/Mooc/binarysearch.exe",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",

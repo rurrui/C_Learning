@@ -10,8 +10,8 @@
             "args": [
                 "-g",
                 "-o",
-                "${workspaceFolder}\\Mooc\\prime_squr",
-                "D:\\study\\C_Learning\\Mooc\\prime_squr.c",
+                "${workspaceFolder}\\Mooc\\binarysearch",
+                "D:\\study\\C_Learning\\Mooc\\binarysearch.c",
             ],
             "group": {
                 "kind": "build",

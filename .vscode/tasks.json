@@ -10,8 +10,8 @@
             "args": [
                 "-g",
                 "-o",
-                "${workspaceFolder}\\Mooc\\7_1",
-                "D:\\study\\C_Learning\\Mooc\\7_1.c",
+                "${workspaceFolder}\\Mooc\\7_2",
+                "D:\\study\\C_Learning\\Mooc\\7_2.c",
             ],
             "group": {
                 "kind": "build",

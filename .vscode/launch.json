@@ -30,7 +30,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Mooc/7_2.exe",
+            "program": "${workspaceFolder}/Mooc/test2.exe",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",

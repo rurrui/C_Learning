@@ -30,7 +30,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Mooc/exam.exe",
+            "program": "${workspaceFolder}/Mooc/mal.exe",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",

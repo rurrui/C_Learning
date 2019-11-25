@@ -10,8 +10,8 @@
             "args": [
                 "-g",
                 "-o",
-                "${workspaceFolder}\\Mooc\\mal",
-                "D:\\study\\C_Learning\\Mooc\\mal.c",
+                "${workspaceFolder}\\Mooc\\findstr",
+                "D:\\study\\C_Learning\\Mooc\\findstr.c",
             ],
             "group": {
                 "kind": "build",
